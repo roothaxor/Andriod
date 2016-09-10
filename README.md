@@ -30,3 +30,5 @@ Click on “SEND AT COMMAND” button below a second time
 Reboot phone
 
 *#*#3646633#*#*
+Rooted Phone.
+in terminal: getprop net.hostname  and then setprop net.hostname CBI-GOV ( change hostname )
