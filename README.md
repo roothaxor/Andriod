@@ -30,5 +30,18 @@ Click on “SEND AT COMMAND” button below a second time
 Reboot phone
 
 *#*#3646633#*#*
+
 Rooted Phone.
 in terminal: getprop net.hostname  and then setprop net.hostname CBI-GOV ( change hostname )
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+prop file in sysmte/sysmte.prop
+edit prop
+setprop {setprop value}
+getprop {getprop value}
+next step:
+stop adbd
+start adbd
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Use MAC Address Changer App
+Device ID Changer App
+
